@@ -1,2 +1,3 @@
 # hello-world
 embarrassing isn't it...
+Here goes the adventure in GitHub, looking forward.
